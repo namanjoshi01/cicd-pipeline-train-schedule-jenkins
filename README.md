@@ -15,3 +15,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 Making changes to test Git to Jenkins web-hook connectivity
+
+Making the 2nd changes to test Git to Jenkins web-hook connectivity, 1st didn't work out due to extra "/" in project config
